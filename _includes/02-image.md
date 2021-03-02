@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a German Shepherd](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg4748%2Ftop-smartest-dog-breeds%2F&psig=AOvVaw3V7cYK-eWRoqAclk3KWUD2&ust=1614767087668000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODGz6qyke8CFQAAAAAdAAAAABAD)
